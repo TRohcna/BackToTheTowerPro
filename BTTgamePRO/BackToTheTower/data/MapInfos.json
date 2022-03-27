@@ -5,10 +5,10 @@ null,
 {"id":3,"expanded":true,"name":"教室","order":3,"parentId":2,"scrollX":601.3333333333334,"scrollY":416},
 {"id":4,"expanded":true,"name":"第一章","order":4,"parentId":0,"scrollX":825.3333333333334,"scrollY":470},
 {"id":5,"expanded":true,"name":"天界入口","order":5,"parentId":4,"scrollX":825.3333333333334,"scrollY":470},
-{"id":6,"expanded":false,"name":"结丘镇","order":6,"parentId":4,"scrollX":825.3333333333334,"scrollY":470},
+{"id":6,"expanded":false,"name":"结丘镇","order":6,"parentId":4,"scrollX":825.3333333333334,"scrollY":538},
 {"id":7,"expanded":true,"name":"神社洞窟入口","order":8,"parentId":4,"scrollX":825.3333333333334,"scrollY":470},
 {"id":8,"expanded":false,"name":"神社","order":7,"parentId":4,"scrollX":825.3333333333334,"scrollY":470},
 {"id":9,"expanded":true,"name":"神社洞窟水晶","order":9,"parentId":4,"scrollX":825.3333333333334,"scrollY":470},
 {"id":10,"expanded":false,"name":"神社洞窟修行处","order":10,"parentId":9,"scrollX":816,"scrollY":640},
-{"id":11,"expanded":false,"name":"神社洞窟出口","order":11,"parentId":4,"scrollX":825.3333333333334,"scrollY":772.6666666666666}
+{"id":11,"expanded":false,"name":"神社洞窟出口","order":11,"parentId":4,"scrollX":825.3333333333334,"scrollY":470}
 ]
