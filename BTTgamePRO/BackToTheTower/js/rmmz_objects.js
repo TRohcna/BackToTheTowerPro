@@ -8781,7 +8781,7 @@ Game_Followers.prototype.initialize = function() {
 
 Game_Followers.prototype.setup = function() {
     this._data = [];
-    for (let i = 1; i < $gameParty.maxBattleMembers(); i++) {
+    for (let i = 1; i < 2; i++) {
         this._data.push(new Game_Follower(i));
     }
 };
