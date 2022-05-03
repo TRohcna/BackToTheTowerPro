@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"人间","order":1,"parentId":0,"scrollX":601.3333333333334,"scrollY":416},
+{"id":1,"expanded":true,"name":"人间","order":1,"parentId":0,"scrollX":601.3333333333334,"scrollY":416},
 {"id":2,"expanded":true,"name":"浦女","order":2,"parentId":1,"scrollX":825.3333333333334,"scrollY":470},
 {"id":3,"expanded":true,"name":"教室","order":3,"parentId":2,"scrollX":601.3333333333334,"scrollY":416},
 {"id":4,"expanded":true,"name":"第一章","order":4,"parentId":0,"scrollX":825.3333333333334,"scrollY":470},
